@@ -76,7 +76,6 @@
    real 0m3.204s <br />
    user 0m8.765s <br />
    sys  0m0.363s <br />
-<br />
    (user+sys)/real = (8.765+0.363)/3.204 = 2.848 cores <br />
 
 7. Largest vampire number we managed to print for ranges [100000, 1000000] - vampire number - 939658 953 986 <br />
